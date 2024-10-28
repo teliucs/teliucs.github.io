@@ -1,5 +1,5 @@
 ## Personal Website
-This repository hosts my personal website, accessible at [lorenzotegliucci.live](http://lorenzotegliucci.live). The site serves as a portfolio to showcase my background and projects.
+This repository hosts my personal website through github-pages.
 
 ## Technologies Used
 - **HTML**, **CSS**, and **JavaScript**
