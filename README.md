@@ -1,5 +1,5 @@
 ## Personal Website
-This repository hosts my personal website, accessible at [lorenzotegliucci.live](http://lorenzotegliucci.live). The site serves as a portfolio to showcase my background, projects, and skills in Management Engineering and Project Management.
+This repository hosts my personal website, accessible at [lorenzotegliucci.live](http://lorenzotegliucci.live). The site serves as a portfolio to showcase my background and projects.
 
 ## Technologies Used
 - **HTML**, **CSS**, and **JavaScript**
